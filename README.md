@@ -1,5 +1,6 @@
-# Adaptive_QNG
-Implementation of Adaptive Quantum Natural Gradient
+# Quantum Natural Gradient with Backtracking Line Search
+
+This repository contains a Qiskit implementation of Quantum Natural Gradient with Backtracking Line Search.
 
 # References
 
