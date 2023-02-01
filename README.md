@@ -14,6 +14,9 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 # <a name="Project-Description"></a> Project Description
 
 # <a name="Technologies"></a> Technologies
+* Python3
+* Qiskit
+* Qiskit QML
 
 # <a name="Code"></a> Code
 
