@@ -26,9 +26,9 @@ Mentor: [Professor Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
 
 Technical Team:
 
-[Pritom Mozumdar](https://github.com/pmozumdar)
-[Elias Lehman](https://github.com/eliaslehman)
-[Olga Okrut](https://github.com/olgOk)
+1. [Pritom Mozumdar](https://github.com/pmozumdar)
+2. [Elias Lehman](https://github.com/eliaslehman)
+3. [Olga Okrut](https://github.com/olgOk)
 
 # <a name="References"></a> References
 
