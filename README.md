@@ -8,6 +8,7 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 * [Technologies](#Technologies)
 * [Code](#Code)
 * [References](#References)
+* [Contributors](#Contributors)
 
 # <a name="Intoduction"></a> Intoduction
 
@@ -19,6 +20,13 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 * Qiskit QML
 
 # <a name="Code"></a> Code
+
+# <a name="Contributors"></a> Contributors
+Mentor: [Professor Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
+Technical Team:
+    * [Pritom Mozumdar](https://github.com/pmozumdar)
+    * [Elias Lehman](https://github.com/eliaslehman)
+    * [Olga Okrut](https://github.com/olgOk)
 
 # <a name="References"></a> References
 
