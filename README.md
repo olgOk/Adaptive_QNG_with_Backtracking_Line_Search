@@ -19,6 +19,8 @@ In this work, our team investigates the possibility of training ML models on nea
 
 # <a name="Project-Description"></a> Project Description
 
+The project was accomplished in several stages. First, we verify the results of the research paper Quantum Natural Gradient with Efficient Backtracking Line Search using the IBM Qiskit framework. [Elaborate more] Secondly, we explored the possibility of extending the current implementation of the Natural Gradient with the Backtracking Line search. [Elaborate more]. Finally, we started the implementation of the backtracking line search [Elaborate more].
+
 # <a name="Technologies"></a> Technologies
 * Python3
 * Qiskit
@@ -27,7 +29,7 @@ In this work, our team investigates the possibility of training ML models on nea
 # <a name="Code"></a> Code
 
 # <a name="Contributors"></a> Contributors
-Mentor: [Professor Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
+Mentor: [Dr. Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
 
 Team:
 
