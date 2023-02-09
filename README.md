@@ -10,25 +10,25 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 * [References](#References)
 * [Contributors](#Contributors)
 
-# <a name="Intoduction"></a> Intoduction
+# Intoduction
 
 One of the challenges in machine learning is the computational expense of training machine learning models. A recent effort in the early adoption of quantum computers to train ML models has been actively explored by the scientific community. In particular, Prasanna Data has shown that the training of linear regression models on big datasets could be sped up 2.8 times when trained on adiabatic quantum computers. Matthias C. Caro et.al. researched the possibility of training ML models on gate-based quantum computers on a small dataset without the loss in quantity of the training. 
 
 In this work, our team investigates the possibility of training ML models on near-term quantum devices. We explored the Quantum Natural Gradient with the backtracking line search as described in [1], and its implementation in IBM Qiskit as an extension of the NaturalGradient Class available in the Qiskit open-source framework.
 
 
-# <a name="Project-Description"></a> Project Description
+# Project Description
 
 The project was accomplished in several stages. First, we verify the results of the research paper Quantum Natural Gradient with Efficient Backtracking Line Search using the IBM Qiskit framework. [Elaborate more] Secondly, we explored the possibility of extending the current implementation of the Natural Gradient with the Backtracking Line search. [Elaborate more]. Finally, we started the implementation of the backtracking line search [Elaborate more].
 
-# <a name="Technologies"></a> Technologies
+# Technologies
 * Python3
 * Qiskit
 * Qiskit QML
 
-# <a name="Code"></a> Code
+# Code
 
-# <a name="Contributors"></a> Contributors
+# Contributors
 Mentor: [Dr. Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
 
 Team:
@@ -37,7 +37,7 @@ Team:
 2. [Elias Lehman](https://github.com/eliaslehman)
 3. [Olga Okrut](https://github.com/olgOk)
 
-# <a name="References"></a> References
+# References
 
 1. [Touheed Anwar Atif, Uchenna Chukwu, Jesse Berwald, Raouf Dridi. Quantum Natural Gradient with Efficient Backtracking Line Search. Nov, 2022.](https://doi.org/10.48550/arXiv.2211.00615)
 2. [Maria Schuld, Ville Bergholm, Christian Gogolin, Josh Izaac, Nathan Killoran. Evaluating analytic gradients on quantum hardware. November 2018. Phys. Rev. A 99, 032331 (2019).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.032331)
