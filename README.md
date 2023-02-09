@@ -12,6 +12,11 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 
 # <a name="Intoduction"></a> Intoduction
 
+One of the challenges in machine learning is the computational expense of training machine learning models. A recent effort in the early adoption of quantum computers to train ML models has been actively explored by the scientific community. In particular, Prasanna Data has shown that the training of linear regression models on big datasets could be sped up 2.8 times when trained on adiabatic quantum computers. Matthias C. Caro et.al. researched the possibility of training ML models on gate-based quantum computers on a small dataset without the loss in quantity of the training. 
+
+In this work, our team investigates the possibility of training ML models on near-term quantum devices. We explored the Quantum Natural Gradient with the backtracking line search as described in [1], and its implementation in IBM Qiskit as an extension of the NaturalGradient Class available in the Qiskit open-source framework.
+
+
 # <a name="Project-Description"></a> Project Description
 
 # <a name="Technologies"></a> Technologies
@@ -24,7 +29,7 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 # <a name="Contributors"></a> Contributors
 Mentor: [Professor Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
 
-Technical Team:
+Team:
 
 1. [Pritom Mozumdar](https://github.com/pmozumdar)
 2. [Elias Lehman](https://github.com/eliaslehman)
