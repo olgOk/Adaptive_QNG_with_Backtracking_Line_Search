@@ -6,7 +6,7 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 * [Intoduction](#Intoduction)
 * [Project Description](#Project-Description)
 * [Technologies](#Technologies)
-* [Code](#Code)
+* [Code Description](#Code-Description)
 * [References](#References)
 * [Contributors](#Contributors)
 
@@ -19,14 +19,17 @@ In this work, our team investigates the possibility of training ML models on nea
 
 # Project Description
 
-The project was accomplished in several stages. First, we verify the results of the research paper Quantum Natural Gradient with Efficient Backtracking Line Search using the IBM Qiskit framework. [Elaborate more] Secondly, we explored the possibility of extending the current implementation of the Natural Gradient with the Backtracking Line search. [Elaborate more]. Finally, we started the implementation of the backtracking line search [Elaborate more].
+The project was accomplished in several stages. First, we verify the results of the research paper Quantum Natural Gradient with Efficient Backtracking Line Search [1] using the IBM Qiskit framework. We have successfully reproduced the experiments on finding the electronic ground states of hydrogen (H), lithium hydride (LiH) molecules, and transverse field Ising model (TFI) using Qiskit. Secondly, we explored the possibility of extending the current implementation of the Qiskit NaturalGradient Class with the Backtracking Line search algorithm. The current implementation of the NaturalGradient search available in Qiskit relies on regularization procedures. That is, the algorithm balances between biases and overfitting to minimize the loss function efficiently. Finally, in our project, we introduce the NaturalGradient class with the backtracking line search based on the Armijo condition. 
+
+# Code Description
+
+
 
 # Technologies
 * Python3
 * Qiskit
 * Qiskit QML
 
-# Code
 
 # Contributors
 Mentor: [Dr. Vesselin G. Gueorguiev](https://github.com/VGGatGitHub)
