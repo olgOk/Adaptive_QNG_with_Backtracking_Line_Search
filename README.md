@@ -38,11 +38,14 @@ The notebook [Backtracking-Line_Search](https://github.com/olgOk/Adaptive_QNG/bl
 
 # How to Use
 
-### Local Environment. Git clone repository and open files Jupyter Notebook. For a better experience, use a virtual environment settings. Each files contains the instructions for the required frameworks installation.
+### Local Environment.
+Git clone repository and open files Jupyter Notebook. For a better experience, use a virtual environment settings. Each files contains the instructions for the required frameworks installation.
 
-### Google Colab. Open files in Google Colab environment.
+### Google Colab. 
+Open files in Google Colab environment.
 
-### IBM Quantum Lab. Upload to IBM Quantum Lab computing services to execute code in notebooks. 
+### IBM Quantum Lab. 
+Upload to IBM Quantum Lab computing services to execute code in notebooks. 
 
 
 # Contributors
