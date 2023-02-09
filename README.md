@@ -28,7 +28,7 @@ The notebook [H_LiH_TIFModel](https://github.com/olgOk/Adaptive_QNG/blob/main/ex
 
 The notebook [Tutorial_on_QFI_in_Qiskit.ipynb](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/Tutorial_on_QFI_in_Qiskit.ipynb) contains the example of Quantum Fisher Information (QFI) calculation in Qiskit. The QFI has a meaning of sensitivity to change the parameters of a parametrized circuit since the QFI is the second order derivative of a circuit by its parameters and is an approximation of the parametric surface.
 
-The notebook [Backtracking-Line_Search](https://github.com/olgOk/Adaptive_QNG/blob/main/code/simple_back_tracking.ipynb) contains a simple implementation of the Backtracking Line search based on Armijo's rule.
+The notebook [Backtracking-Line_Search](https://github.com/olgOk/Adaptive_QNG/blob/main/code/Backtracking-Line_Search.ipynb) contains a simple implementation of the Backtracking Line search based on Armijo's rule.
 
 # Technologies
 
