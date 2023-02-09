@@ -5,10 +5,11 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 ## Table of Contents
 * [Intoduction](#Intoduction)
 * [Project Description](#Project-Description)
-* [Technologies](#Technologies)
 * [Code Description](#Code-Description)
-* [References](#References)
+* [Technologies](#Technologies)
+* [How to Use](#How-to-Use)
 * [Contributors](#Contributors)
+* [References](#References)
 
 # Intoduction
 
@@ -23,12 +24,25 @@ The project was accomplished in several stages. First, we verify the results of 
 
 # Code Description
 
+The notebook [H_LiH_TIFModel](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/H_LiH_TIFModel.ipynb) contains the reproduction of the experiments in Qiskit environment.
 
+The notebook [Tutorial_on_QFI_in_Qiskit.ipynb](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/Tutorial_on_QFI_in_Qiskit.ipynb) contains the example of Quantum Fisher Information (QFI) calculation in Qiskit. The QFI has a meaning of sensitivity to change the parameters of a parametrized circuit since the QFI is the second order derivative of a circuit by its parameters and is an approximation of the parametric surface.
+
+The notebook [Backtracking-Line_Search](https://github.com/olgOk/Adaptive_QNG/blob/main/code/simple_back_tracking.ipynb) contains a simple implementation of the Backtracking Line search based on Armijo's rule.
 
 # Technologies
+
 * Python3
 * Qiskit
 * Qiskit QML
+
+# How to Use
+
+### Local Environment. Git clone repository and open files Jupyter Notebook. For a better experience, use a virtual environment settings. Each files contains the instructions for the required frameworks installation.
+
+### Google Colab. Open files in Google Colab environment.
+
+### IBM Quantum Lab. Upload to IBM Quantum Lab computing services to execute code in notebooks. 
 
 
 # Contributors
