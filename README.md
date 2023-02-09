@@ -1,6 +1,6 @@
 # Quantum Natural Gradient with Backtracking Line Search
 
-This repository contains a Qiskit implementation of Quantum Natural Gradient with Backtracking Line Search.
+This repository contains a Qiskit implementation of Quantum Natural Gradient with Backtracking Line Search implemented during the Cohort 6 of [QOSF mentorship program](https://qosf.org/qc_mentorship/).
 
 ## Table of Contents
 * [Intoduction](#Intoduction)
@@ -24,7 +24,7 @@ The project was accomplished in several stages. First, we verify the results of 
 
 # Code Description
 
-The notebook [H_LiH_TIFModel](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/H_LiH_TIFModel.ipynb) contains the reproduction of the experiments in Qiskit environment.
+The notebook [H_LiH_TIFModel](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/H_LiH_TIFModel.ipynb) contains the reproduction of the experiments on H, LiH, and TFI in Qiskit environment.
 
 The notebook [Tutorial_on_QFI_in_Qiskit.ipynb](https://github.com/olgOk/Adaptive_QNG/blob/main/examples/Tutorial_on_QFI_in_Qiskit.ipynb) contains the example of Quantum Fisher Information (QFI) calculation in Qiskit. The QFI has a meaning of sensitivity to change the parameters of a parametrized circuit since the QFI is the second order derivative of a circuit by its parameters and is an approximation of the parametric surface.
 
