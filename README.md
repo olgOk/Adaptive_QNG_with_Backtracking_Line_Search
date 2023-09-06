@@ -11,7 +11,7 @@ This repository contains a Qiskit implementation of Quantum Natural Gradient wit
 * [Contributors](#Contributors)
 * [References](#References)
 
-# Intoduction
+# Introduction
 
 One of the challenges in machine learning is the computational expense of training machine learning models. A recent effort in the early adoption of quantum computers to train ML models has been actively explored by the scientific community. In particular, Prasanna Data has shown that the training of linear regression models on big datasets could be sped up 2.8 times when trained on adiabatic quantum computers. Matthias C. Caro et.al. researched the possibility of training ML models on gate-based quantum computers on a small dataset without the loss in quantity of the training. 
 
